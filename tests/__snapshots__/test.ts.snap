@@ -28,7 +28,7 @@ L:Mensagem de nível 'log'
 
 `;
 
-exports[`log 2`] = `
+exports[`warn 1`] = `
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 W:Mensagem de nível 'warn'
 
