@@ -1,7 +1,7 @@
 # AC Ferramentas: JEST - instantâneo de console (NODEJS)
 
 [![Build Status](https://travis-ci.org/brodao/act-jest-snapshot-console.svg?branch=master)](https://www.travis-ci.org/github/brodao/act-jest-snapshot-console)
-[![Coverage Status](https://coveralls.io/repos/github/brodao/act-jest-snapshot-console/badge.svg?branch=master)](https://codecov.io/gh/brodao/act-jest-snapshot-console)
+[![codecov](https://codecov.io/gh/brodao/act-jest-snapshot-console/branch/master/graph/badge.svg)](https://codecov.io/gh/brodao/act-jest-snapshot-console)
 [![CC BY license](https://img.shields.io/badge/license-CC%20BY-%2327ad79)](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
