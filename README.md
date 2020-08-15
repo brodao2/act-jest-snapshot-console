@@ -1,14 +1,12 @@
 # AC Ferramentas: JEST - instantâneo de console (NODEJS)
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 [![Build Status](https://travis-ci.org/brodao/act-jest-snapshot-console.svg?branch=master)](https://www.travis-ci.org/github/brodao/act-jest-snapshot-console)
 [![Coverage Status](https://coveralls.io/repos/github/brodao/act-jest-snapshot-console/badge.svg?branch=master)](https://codecov.io/gh/brodao/act-jest-snapshot-console)
 [![CC BY license](https://img.shields.io/badge/license-CC%20BY-%2327ad79)](https://creativecommons.org/licenses/by/4.0/)
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Dependencies](https://david-dm.org/brodao/act-jest-snapshot-console.svg)](https://david-dm.org/brodao/act-jest-snapshot-console)
 
@@ -83,21 +81,23 @@ Ajude a manter gratuíto e aberto. Se o que disponibilizamos gratuitamente e de 
 
 Venha para nossa lista você também. Veja [CONTRIBUTING](CONTRIBUTING.MD) para saber como.
 
-## Colaboradores
+## <a name=contributors>Colaboradores</a>
 
-Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições de qualquer tipo são bem-vindas!
-
-Nossos sinceros agradecimentos vão para: _([emoji key](https://allcontributors.org/docs/en/emoji-key))_
+Nossos sinceros agradecimentos vão para:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/brodao"><img src="https://avatars0.githubusercontent.com/u/949914?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Alan Cândido</b></sub></a><br /><a href="https://github.com/brodao/act-jest-snapshot-console/commits?author=brodao" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/brodao" target="_brank"><img src="https://avatars0.githubusercontent.com/u/949914?v=4" width="50px;" alt=""/><br /><sub><b>Alan Cândido</b><br>(brodao)</sub></a></td>
   </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors).
+
+Contribuições de qualquer tipo são bem-vindas!

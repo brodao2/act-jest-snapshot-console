@@ -11,7 +11,5 @@ after_script:
 cache:
     directories:
         - node_modules
-notifications:
-    webhooks: https://coveralls.io/webhook
 matrix:
     fast_finish: true

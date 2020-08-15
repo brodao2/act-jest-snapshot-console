@@ -4,10 +4,11 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
-    "README.md"
+    "README.md",
+    "CONTRIBUTING.md"
   ],
   "imageSize": 50,
-  "commit": true,
+  "commit": false,
   "commitConvention": "none",
   "contributors": [
     {
@@ -20,5 +21,8 @@
       ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 6,
+  "contributorsSortAlphabetically": true,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\" target=\"_brank\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b><br>(<%= contributor.login %>)</sub></a>"
 }
