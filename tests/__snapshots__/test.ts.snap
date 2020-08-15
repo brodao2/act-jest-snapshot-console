@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`after 1`] = `
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+L:Executando myFunctionTest
+L:Msg = after
+L:% % % %
+
+`;
+
+exports[`before 1`] = `undefined`;
+
+exports[`error 1`] = `
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:Mensagem de nível 'error'
+
+`;
+
+exports[`info 1`] = `
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I:Mensagem de nível 'info'
+
+`;
+
+exports[`log 1`] = `
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+L:Mensagem de nível 'log'
+
+`;
+
+exports[`log 2`] = `
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+W:Mensagem de nível 'warn'
+
+`;
