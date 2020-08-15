@@ -1,6 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`after 1`] = `
+(no data)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 L:Executando myFunctionTest
 L:Msg = after
@@ -11,25 +12,43 @@ L:% % % %
 exports[`before 1`] = `undefined`;
 
 exports[`error 1`] = `
+(no data)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 E:Mensagem de nível 'error'
 
 `;
 
 exports[`info 1`] = `
+(no data)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 I:Mensagem de nível 'info'
 
 `;
 
 exports[`log 1`] = `
+(no data)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 L:Mensagem de nível 'log'
 
 `;
 
 exports[`warn 1`] = `
+(no data)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 W:Mensagem de nível 'warn'
+
+`;
+
+exports[`with no data 1`] = `
+(no data)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(no data)
+`;
+
+exports[`with return 1`] = `
+2 + 2 = 4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I:Mensagem de nível 'info'
+L:processando...
 
 `;
