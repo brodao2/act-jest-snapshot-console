@@ -5,10 +5,10 @@
 [![CC BY license](https://img.shields.io/badge/license-CC%20BY-%2327ad79)](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Dependencies](https://david-dm.org/brodao/act-jest-snapshot-console.svg)](https://david-dm.org/brodao/act-jest-snapshot-console)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Objetivo
 
@@ -75,13 +75,9 @@ Ajude a manter gratuíto e aberto. Se o que disponibilizamos gratuitamente e de 
 -   **Mercado Pago** Doação no valor de R\$20,00 (vários meios) [única](https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=265489088-d6ac3c3d-26ec-4b32-9e61-1a6f67f46880)
 -   **PagSeguro** Doação com valor a ser definido por você (vários meios) [única](https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=ed1ce6a52728d7cc3f98b07dd597573b7db955e85faff6ff5da31c3d3b58266b&e=true#rmcl)
 
-## Contribuição
-
-> O trabalho é voluntário e não concede nenhum direito/privilégio, incluindo eventuais ganhos pecuniários.
-
-Venha para nossa lista você também. Veja [CONTRIBUTING](CONTRIBUTING.MD) para saber como.
-
 ## <a name=contributors>Colaboradores</a>
+
+> O trabalho é voluntário e não concede nenhum direito/privilégio, incluindo eventuais ganhos pecuniários. Veja [CONTRIBUTING](CONTRIBUTING.MD) para saber mais.
 
 Nossos sinceros agradecimentos vão para:
 
@@ -96,6 +92,7 @@ Nossos sinceros agradecimentos vão para:
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors).
