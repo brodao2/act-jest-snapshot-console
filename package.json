@@ -1,6 +1,6 @@
 {
 	"name": "@brodao/act-jest-snapshot-console",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Captura a saída de 'console.log ()' e incorpora-o ao instantâneo de um teste baseado em JEST",
 	"license": "SEE LICENSE IN LICENSE",
 	"homepage": "https://github.com/brodao/act-jest-snapshot-console",
