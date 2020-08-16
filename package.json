@@ -13,6 +13,9 @@
 		"email": "brodao@gmail.com",
 		"url": "https://github.com/brodao"
 	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
 	"contributors": [],
 	"keywords": [
 		"jest",
@@ -41,7 +44,7 @@
 		"release": "standard-version",
 		"release:rc": "npm run release -- --prerelease rc",
 		"tag": "git push --follow-tags",
-		"prepublishOnly": "",
+		"prepublishOnly": "npm run build && npm run test",
 		"publish": "npm publish",
 		"--------": "",
 		"contributors:add": "all-contributors add",
