@@ -9,7 +9,7 @@ Nossos sinceros agradecimentos vão para:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/brodao" target="_brank"><img src="https://avatars0.githubusercontent.com/u/949914?v=4" width="50px;" alt=""/><br /><sub><b>Alan Cândido</b><br>(brodao)</sub></a></td>
+    <td align="center"><a href="https://github.com/brodao"><img src="https://avatars0.githubusercontent.com/u/949914?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Alan Cândido</b></sub></a><br /><a href="https://github.com/brodao/act-jest-snapshot-console/commits?author=brodao" title="Code">💻</a></td>
   </tr>
 </table>
 
