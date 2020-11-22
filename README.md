@@ -5,7 +5,9 @@
 [![CC BY license](https://img.shields.io/badge/license-CC%20BY-%2327ad79)](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Objetivo
@@ -71,9 +73,14 @@ O suporte é efetuado exclusivamente via chamados e/ou consultando a documentaç
 
 Ajude a manter gratuíto e aberto. Se o que disponibilizamos gratuitamente e de forma aberta esta sendo-lhe útil, considere efetuar uma contribuição por um dos meios indicados.
 
--   **Mercado Pago** Doação com valor a ser definido por você (somente cartão de crédito) [única](http://mpago.la/1sWXCjq) [3 meses](http://mpago.la/2WWNAp5) [6 meses](http://mpago.la/2WHLJ5S)
--   **Mercado Pago** Doação no valor de R\$20,00 (vários meios) [única](https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=265489088-d6ac3c3d-26ec-4b32-9e61-1a6f67f46880)
--   **PagSeguro** Doação com valor a ser definido por você (vários meios) [única](https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=ed1ce6a52728d7cc3f98b07dd597573b7db955e85faff6ff5da31c3d3b58266b&e=true#rmcl)
+-   **Mercado Pago** Doação com valor a ser definido por você (vários meios):
+
+    -   [contribuição única](http://mpago.la/1PqKVdx)
+    -   [3 contribuições](http://mpago.la/1Gk2N6k)
+    -   [6 contribuições](http://mpago.la/28aH7Qa)
+
+-   **PagSeguro** Doação única com valor a ser definido por você (vários meios)
+    -   [contribuição única](https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=ed1ce6a52728d7cc3f98b07dd597573b7db955e85faff6ff5da31c3d3b58266b&e=true#rmcl)
 
 ## <a name=contributors>Colaboradores</a>
 
@@ -92,6 +99,7 @@ Nossos sinceros agradecimentos vão para:
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors).
