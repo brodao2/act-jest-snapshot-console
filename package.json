@@ -1,5 +1,5 @@
 {
-	"name": "@brodao/act-jest-snapshot-console",
+	"name": "act-jest-snapshot-console",
 	"version": "1.0.6",
 	"description": "Captura a saída de 'console.log ()' e incorpora-o ao instantâneo de um teste baseado em JEST",
 	"license": "SEE LICENSE IN LICENSE",
@@ -42,7 +42,7 @@
 		"release:rc": "npm run release -- --prerelease rc",
 		"tag": "git push --follow-tags",
 		"xprepublishOnly": "npm run test",
-		"publish": "npm publish",
+		"publish": "npm publish --access public",
 		"--------": "",
 		"contributors:add": "all-contributors add",
 		"contributors:generate": "all-contributors generate"
