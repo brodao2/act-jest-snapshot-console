@@ -1,5 +1,7 @@
 # Registro de modificações
 
+### [1.0.7](https://github.com/brodao2/act-jest-snapshot-console/compare/v1.0.6...v1.0.7) (2024-08-31)
+
 ### [1.0.6](https://github.com/brodao/act-jest-snapshot-console/compare/v1.0.5...v1.0.6) (2024-08-31)
 
 ### [1.0.5](https://github.com/brodao/act-jest-snapshot-console/compare/v1.0.3...v1.0.5) (2022-02-12)
