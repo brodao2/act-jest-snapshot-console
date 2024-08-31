@@ -6,7 +6,7 @@
 	"homepage": "https://github.com/brodao/act-jest-snapshot-console",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/brodao/act-jest-snapshot-console.git"
+		"url": "git+https://github.com/brodao/act-jest-snapshot-console.git"
 	},
 	"author": {
 		"name": "Alan Cândido",
