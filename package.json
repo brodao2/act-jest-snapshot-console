@@ -41,7 +41,7 @@
 		"release": "standard-version",
 		"release:rc": "npm run release -- --prerelease rc",
 		"tag": "git push --follow-tags",
-		"xprepublishOnly": "npm run test",
+		"prepublishOnly": "npm run test",
 		"publish": "npm publish --access public",
 		"--------": "",
 		"contributors:add": "all-contributors add",
