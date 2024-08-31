@@ -3,18 +3,15 @@
 	"version": "1.0.6",
 	"description": "Captura a saída de 'console.log ()' e incorpora-o ao instantâneo de um teste baseado em JEST",
 	"license": "SEE LICENSE IN LICENSE",
-	"homepage": "https://github.com/brodao/act-jest-snapshot-console",
+	"homepage": "https://github.com/brodao2/act-jest-snapshot-console",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/brodao/act-jest-snapshot-console.git"
+		"url": "git+https://github.com/brodao2/act-jest-snapshot-console.git"
 	},
 	"author": {
 		"name": "Alan Cândido",
 		"email": "brodao@gmail.com",
-		"url": "https://github.com/brodao"
-	},
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/"
+		"url": "https://github.com/brodao2"
 	},
 	"contributors": [],
 	"keywords": [
@@ -44,7 +41,7 @@
 		"release": "standard-version",
 		"release:rc": "npm run release -- --prerelease rc",
 		"tag": "git push --follow-tags",
-		"prepublishOnly": "npm run test",
+		"xprepublishOnly": "npm run test",
 		"publish": "npm publish",
 		"--------": "",
 		"contributors:add": "all-contributors add",
